@@ -1,0 +1,6 @@
+streamlit
+folium
+streamlit-folium
+speechrecognition
+scikit-learn
+pandas
